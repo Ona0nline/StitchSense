@@ -1,0 +1,30 @@
+body{
+  background-color:#f6f3ee
+}
+
+@font-face {
+  font-family: "circle";
+  src: url(../font/Bright\ Circle.otf) format("opentype");
+}
+
+h1{
+  color:#036147;
+  text-align: center;
+  font-size: 130px;
+  font-family: "circle";
+}
+
+p{
+  font-family: "circle";
+  text-align: center;
+  
+}
+
+#info{
+  margin-top:80px;
+  margin-bottom: 80px;
+}
+
+#hero{
+  margin-top:140px;
+}

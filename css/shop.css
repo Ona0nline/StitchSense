@@ -1,0 +1,29 @@
+body{
+  background-color: #f6f3ee;
+}
+
+@font-face {
+  font-family: "circle";
+  src: url(../font/Bright\ Circle.otf) format("opentype");
+}
+
+h1{
+  color:#036147;
+  font-family: "circle";
+  text-align: center;
+}
+
+.orderCon{
+  display: grid;
+  place-content: center;
+  background-color: #A7C957;
+  color: #386641;
+  width:900px;
+  border-radius: 24px;
+}
+
+.ordering{
+  display: grid;
+  place-items: center;
+}
+
